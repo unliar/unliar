@@ -1,20 +1,12 @@
 ![远浅的GithubState](https://github-readme-stats.vercel.app/api?username=unliar&count_private=true&show_icons=true&theme=dark)
 
-### Hi 我的老伙计 👋
+### Hi there 👋
 
-您在哪里打工呢～
+I'm 远浅 , a Chinese Web Developer.
 
-<!--
-**unliar/unliar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on ? 
+- 🌱 I’m currently learning Golang、k8s
+- 💬 My website [Happysooner](https://happysooner.com)
+- 📫 Social media: [Email](mailto:i@happysooner.com)、[Twitter](https://twitter.com/lzt224)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
