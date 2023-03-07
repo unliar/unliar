@@ -3,12 +3,12 @@
 
 ### Hi there 👋
 
-I'm 远浅 , a Chinese Web Developer.
+I'm 远浅 , a Web Developer.
 
 - 🔭 I’m currently working on a small company as a web developer? 
 - 🌱 I’m currently learning Golang、k8s
-- 💬 My website [Happysooner](https://happysooner.com)
-- 📫 Social media: [Email](mailto:i@happysooner.com)、[Twitter](https://twitter.com/lzt224)
+- 💬 My website [site](https://happysooner.com)
+- 📫 Social media: [Email](mailto:i@happysooner.com)、[Twitter](https://twitter.com/HomeFlyingCat)
 
 
 ### Languages & Tools
